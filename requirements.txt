@@ -1,0 +1,4 @@
+# Lists the Python libraries required by the backend:
+# flask: For creating the API.
+flask
+redis
